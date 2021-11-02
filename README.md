@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello there, I'm Israel Lopes 👋
 
-<!--
-**Raellopes368/Raellopes368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working as a web developer (full stack) at Liquid Adserver company
+- 🎓 Computer Engineering Student, 4th period
+- 🌱 I’m currently learning about Soft Skills (Rocketseat/Higher trail/Ignite)
+- 💬 Ask me about [Git, React, React Native, Javascript, Arduino, HTML, CSS]
+- 😄 Pronouns: Him/His
 
-Here are some ideas to get you started:
+![Github stats](https://github-readme-stats.vercel.app/api?username=Raellopes368&theme=radical&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raellopes368&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Github followers](https://img.shields.io/github/followers/Raellopes368?logo=github&logoColor=%23ddd&style=flat-square)](https://github.com/Raellopes368)
+[![Linkedin profile](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/israel-lopes-silva/)
