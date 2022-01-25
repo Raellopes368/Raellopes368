@@ -1,7 +1,7 @@
 # Hello there, I'm Israel Lopes 👋
 
 - 🔭 I'm currently working as a web developer (front end) at WeDev Software company
-- 🎓 Computer Engineering Student, 4th period
+- 🎓 Computer Engineering Student, 5th period
 - 🌱 I’m currently learning about Soft Skills (Rocketseat/Higher trail/Ignite)
 - 💬 Ask me about [Git, React, React Native, Javascript, Arduino, HTML, CSS]
 - 😄 Pronouns: Him/His
