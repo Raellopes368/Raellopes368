@@ -4,7 +4,7 @@
 - 🎓 Computer Engineering Student, 5th period
 - 🌱 I’m currently learning about Soft Skills (Rocketseat/Higher trail/Ignite)
 - 💬 Ask me about [Git, React, React Native, Javascript, Arduino, HTML, CSS]
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/Himn
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Raellopes368&theme=radical&show_icons=true)
 
