@@ -1,7 +1,7 @@
 # Hello there, I'm Israel Lopes 👋
 
 - 🔭 I'm currently working as a web developer (fullstack) at NeuralX company
-- 🎓 Computer Engineering Student, 5th period
+- 🎓 Graduated in Computer Engineering
 - 🌱 I’m currently learning about Soft Skills (Rocketseat/Higher trail/Ignite)
 - 💬 Ask me about [Git, React, React Native, Javascript, Arduino, HTML, CSS]
 - 😄 Pronouns: He/Himn
