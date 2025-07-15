@@ -1,6 +1,6 @@
 # Hello there, I'm Israel Lopes 👋
 
-- 🔭 I'm currently working as a web developer (front end) at WeDev Software company
+- 🔭 I'm currently working as a web developer (fullstack) at NeuralX company
 - 🎓 Computer Engineering Student, 5th period
 - 🌱 I’m currently learning about Soft Skills (Rocketseat/Higher trail/Ignite)
 - 💬 Ask me about [Git, React, React Native, Javascript, Arduino, HTML, CSS]
